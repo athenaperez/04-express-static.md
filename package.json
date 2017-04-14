@@ -1,0 +1,24 @@
+{
+  "name": "04-express-static.md",
+  "version": "1.0.0",
+  "description": "node-milestones/02-db-driven-applications/exercises/04-express-static.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athenaperez/04-express-static.md.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athenaperez/04-express-static.md/issues"
+  },
+  "homepage": "https://github.com/athenaperez/04-express-static.md#readme",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "nodemon": "^1.11.0"
+  }
+}
